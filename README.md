@@ -6,6 +6,7 @@ Minimal example C program using Unix **readdir API** to list files in a director
 
 - [Background](#background)
 - [Program](#program)
+  - [Running program](#running-program)
 - [Resources and related material](#resources-and-related-material)
 
 
@@ -60,6 +61,24 @@ int main(int argc, char* argv[])
         return EXIT_SUCCESS;
     }
 }
+```
+
+### Running program
+
+```bash
+$ ./readdir .
+entries in '.':
+	.
+	..
+	readdir
+	Makefile
+	README.md
+	main.c
+	.gitignore
+	.gitattributes
+	.vimrc
+	.git
+	.vscode
 ```
 
 
