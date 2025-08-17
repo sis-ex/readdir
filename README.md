@@ -1,5 +1,7 @@
 # readdir <!-- omit in toc -->
 
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)
+
 Minimal example C program using Unix **readdir API** to list files in a directory.
 
 ## Table of contents <!-- omit in toc -->
