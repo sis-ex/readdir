@@ -1,0 +1,15 @@
+
+.DS_Store
+
+*.o
+*.a
+*.obj
+*.ilk
+*.exp
+*.pdb
+*.map
+*.exe
+*.swp
+*.tmp
+*.zip
+
