@@ -1,6 +1,7 @@
 # readdir <!-- omit in toc -->
 
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)
+[![C/C++ CI](https://github.com/sis-ex/readdir/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sis-ex/readdir/actions/workflows/c-cpp.yml)
 
 Minimal example C program using Unix **readdir API** to list files in a directory.
 
