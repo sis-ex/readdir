@@ -7,9 +7,9 @@
 
 int main(int argc, char* argv[])
 {
-	char const* search_dir = (argc < 2) ? "." : argv[1];
+    char const* const search_dir = (argc < 2) ? "." : argv[1];
 
-	DIR* const	dir	=	opendir(search_dir);
+    DIR* const	dir	=	opendir(search_dir);
 
     if (NULL == dir)
     {

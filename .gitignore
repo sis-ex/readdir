@@ -3,6 +3,8 @@ readdir
 
 .DS_Store
 
+*~
+*.*~
 *.o
 *.a
 *.obj
